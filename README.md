@@ -995,3 +995,22 @@ Features:
 - Music Controls
 - Mute Control
 - Do not disturb
+
+
+[@mdreece preset] 
+<img width="1085" alt="Main_Bar" src="https://user-images.githubusercontent.com/87138240/146812116-12e41c8d-a865-406d-a8dc-14da0c235c0b.png">
+
+Minimal Productivity
+
+Features:
+ - Siri Button
+ - Screen Brightness
+ - Volume Control
+ - Music Control
+ - Dock
+ - Apple Applications Group
+ - Adobe CC Group
+ - Mac Utilities Group
+         - Network Information
+         - Storage Usage
+         - CPU Usage
