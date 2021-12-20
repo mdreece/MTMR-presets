@@ -996,6 +996,8 @@ Features:
 - Mute Control
 - Do not disturb
 
+---
+
 
 [@mdreece preset] 
 <img width="1085" alt="Main_Bar" src="https://user-images.githubusercontent.com/87138240/146812116-12e41c8d-a865-406d-a8dc-14da0c235c0b.png">
