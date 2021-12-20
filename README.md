@@ -1009,8 +1009,13 @@ Features:
  - Music Control
  - Dock
  - Apple Applications Group
+<img width="1085" alt="Group_1" src="https://user-images.githubusercontent.com/87138240/146812735-2465f655-b2f7-4808-8707-456592149e30.png">
+
  - Adobe CC Group
+<img width="1085" alt="Group_2" src="https://user-images.githubusercontent.com/87138240/146812758-afac40e2-2589-4b3e-a5d0-b37cf5f846e4.png">
+
  - Mac Utilities Group
          - Network Information
          - Storage Usage
          - CPU Usage
+<img width="1085" alt="Group_3" src="https://user-images.githubusercontent.com/87138240/146812790-68a6eb40-ee46-49d4-914c-15e09c6433a4.png">
